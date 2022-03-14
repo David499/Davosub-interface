@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Davosub</title>
+  </head>
+  <body>
+    <h1>DAVOSUB</h1>
+    <!--Login button-->
+    <button name="button" value="Login" type="button"><a href="Davosub Login form.html">Login</a>
+    </button>
+    <br><br>
+    <img src="Davosubgraphic resources/hamburger.jpg" alt="dropdown icon" width="50">
+    <img src="Davosubgraphic resources/Office background.jpg">
+    <p><h2>MTN CUG</h2>
+    Our CUG gives you access to enjoy unlimited free calls (24/7) and unlimited free SMS with your CUG Partner(s). Either you or your CUG partner can initiate the free call (you do not need to have any airtime on your line before you make call). You can enjoy this service on any MTN line (you can activate CUG on your existing line and you can also get a new line for this service). You can become a CUG Agent and earn massive recursive income.</p>
+<!--Register Now button-->
+    <button name="button" value="Register Now" type="button"><a href="https://www.google.com">Register Now</a>
+    </button> <br><br><br>
+    <p1>Service</p1><br><br>
+    <p><h1>THE SERVICES WE OFFER</h1></p>
+    <br><br><br><br><br>
+    <p>
+      <img src="Davosubgraphic resources/red desktop icon.png" alt="Red desktop" width="50"><br>
+      <h2>Data Bundles</h2>
+      <p>Buy Data for all networks (MTN, GLO, AIRTEL, 9MOBILE) at the cheapest rate ever. Data is valid for 1 month and works with all internet enabled devices (Android, iphone, Computers, Modems, Routers, Mifi,…)</p>
+    </p>
+    <p>
+      <img src="Davosubgraphic resources/market graph icon.png" alt="Graph icon" width="50"><br>
+      <h2>Airtime Topup</h2>
+      <p>Both vtu and recharge pins for all networks are available on this platform. You can recharge yourself, your friends or even resell. Huge discounts await you. Also note that with davosub you can convert your excess airtime to cash in your bank account.</p>
+    </p>
+    <img src="Davosubgraphic resources/gallery icon.jpg" alt="Gallery icon" width="50"><br>
+    <h2>Cable TV/Electricity Bills Payment</h2>
+    <p>Instantly recharge your Gotv, Dstv, Startimes, e.t.c. Recharge Now Pay your Postpaid and Prepaid electricity bill. Effortless, Faster, Reliable and Convenient.</p>
+    <img src="Davosubgraphic resources/settings icon.png" alt="Settings icon" width="50"><br>
+    <h2>Exam Cards</h2>
+    <p>Buy WAEC, NECO, UTME, NABTEB e.t.c examination scratch cards. It is cheaper and a more convenient option.</p>
+    <img src="Davosubgraphic resources/globe icon.png" alt="globe icon" width="50"><br>
+    <h2>Electricity Bills Payment</h2>
+    <p>Pay your Postpaid and Prepaid electricity bill. Effortless, Faster, Reliable and Convenient.</p>
+    <img src="Davosubgraphic resources/to do list icon.png" alt="To do list icon" width="50"><br>
+    <h2>Bulk SMS</h2>
+    <p>Send bulk SMS at the cheapest price in Nigeria (pay as low as #1 per unit) with an assurance of 100% sms delivery to all numbers (both DND and NON-DND).</p>
+    <br><br><br>
+    <p>
+      <h2>davosub</h2>
+      <br>
+      <ul style="list-style: none;">
+        <li><strong>Address:</strong> FUTA South gate, Akure</li>
+        <li><strong>Phone:</strong> 08163685305</li>
+        <li><strong>Email:</strong> adetunjidavid76@gmail.com</li>
+      </ul>
+    </p>
+    <img src="Davosubgraphic resources/facebook icon.png" alt="Facebook icon" width="50">
+    <img src="Davosubgraphic resources/whatsapp_icon.png" alt="whatsapp_icon" width="50">
+
+    <p><h2>Useful Links</h2>
+      <br>
+      <ul>
+        <li><a href="Davosub">Home</a></li>
+        <li><a href="Davosub">About us</a></li>
+        <li><a href="Davosub">Sevices</a></li>
+        <li><a href="Davosub">Terms of service</a></li>
+        <li><a href="Davosub">Privacy policy</a></li>
+      </ul>
+    </p>
+    <br><br><br><br><br><br>
+  </body>
+  <footer><p1>&copy; <strong>davosub</strong>. All Rights Reserved</p1><br>
+  <a href="#">Top</a>
+  </footer>
+</html>
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>davosub | User login</title>
+  </head>
+  <body>
+    <h2>davosub</h2>
+    <p>Provide your details below to login</p><br>
+    <form action="davosub.com/user/login" method="post">
+      <label for="Email/number">Email/Phone No.</label>
+      <input type="text" id="Email/number" name="Email/number"><br><br>
+      <label for="Pword">Password</label>
+      <input type="password"id="Pword" name="Pword"><br><br>
+      <input type="submit" value="Login" />
+    </form>
+    <a href="#">I forgot my password</a>
+    <a href="#">Register</a>
+  </body>
+</html>
